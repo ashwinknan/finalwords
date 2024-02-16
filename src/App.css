@@ -1,7 +1,25 @@
 /* App.css */
 .centeredContent {
-  width: 100%; /* Take the full width */
-  /* Removed display flex, flex-direction, align-items, justify-content */
+  max-width: 600px; /* Adjust this value as needed */
+  margin: 20px auto; /* Update margin to be consistent with other centered content */
+  padding: 20px;
+  box-sizing: border-box;
+  text-align: left;
+}
+
+.centeredContent p {
+  margin: 10px 0;
+}
+
+.centeredContent p.text-right {
+  text-align: right;
+}
+
+@media (max-width: 768px) {
+  .centeredContent {
+    max-width: calc(100% - 40px);
+    padding: 10px;
+  }
 }
 
 
