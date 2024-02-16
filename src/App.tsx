@@ -14,7 +14,7 @@ function App() {
       </SignedOut>
       </div>
       <SignedIn>
-      <div className="centeredContent" style={{textAlign: 'left'}}>
+      <div className="centeredContent" style={{textAlign: 'left', margin: '20px'}}>
         <p>Hi,</p>
         <br />
         <p>Today is my last working day at Narayana. The last two years have been nothing short of an amazing journey. When I met the founder on October 3, 2022 - I had one question - how serious are you about this?</p>
