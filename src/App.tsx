@@ -14,7 +14,7 @@ function App() {
       </SignedOut>
       </div>
       <SignedIn>
-      <div className="centeredContent" style={{textAlign: 'left', margin: '20px'}}>
+      <div className="centeredContent" style={{textAlign: 'left', margin: '50px'}}>
         <p>Hi,</p>
         <br />
         <p>Today is my last working day at Narayana. The last two years have been nothing short of an amazing journey. When I met the founder on October 3, 2022 - I had one question - how serious are you about this?</p>
@@ -36,9 +36,9 @@ function App() {
         <p>The amazing thing is that I got access to this <i>from a person I hired into Narayana</i> - so in retrospect, coming here is one of the best decisions I have made. Also reinforces something I have always know , the world is a very small place and professional relationships matter. <i>Be nice to people not only above you but also those who come under you.</i> It pays off.</p>
         <p>Thank you everyone once again. I am at ashwinknan[at]gmail.com and (+91)-9757341650 - so if any of you want to chat up - you know how to reach me. I am still in Koramangala and will always be up for a quick coffee chat (for everyone, not just the people I have mentioned here). </p>
         <br />
-        <p>Signing Off, </p>
+        <p style={{textAlign: 'right'}}>Signing Off, </p>
         <br />
-        <p>Ashwin</p>
+        <p style={{textAlign: 'right'}}>Ashwin</p>
         <SignOutButton />
       </div>
       </SignedIn>
