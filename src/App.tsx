@@ -22,9 +22,9 @@ function App() {
         <p>And in typical founder style, he never responded, but showed up with intensity in the first six months and drove us to accomplish what normally takes years. We built a 250+ team in less than 4 months in the middle of COVID when people just wrote us off as also-rans. This is an experience I will forever remember. I also enjoyed working at the uppermost levels of the board with Puneet - and it gave me a first hand account of how things operate at the highest levels in a multi-thousand crore revenue company. This is an experience I would never regret. </p>
         <br />
         <p>I also want to take this moment to thank all those who were the first 70-80 odd people to join - you are the people who showed real courage and really gave comfort to everyone who joined later no matter how senior they were. <i>If it were not for you, many of the later joiners would not even have had the guts to join.</i> Anyone joining after that took a relatively safe choice - you didn’t.  You joined and paved the way for others - <i>if that isn’t leadership, I don’t know what is.</i> </p>
-        <p>Not to forget <strong>Sridhar, Mahesh and Sujatha</strong>, people who have worked (usefully) on this longer than I and Manjeet have.</p>
         <br />
         <p>Especially <strong>Devika, Abhishek, Reet, Nitin, Kirti, Parv, Prachi, Naruttam, Kalyani, Divya, Debashis, Stuti, Rahul, Shalini Marar, Rambabu </strong> - I know you joined because you really believed in us.</p>
+        <p>Not to forget the OGs<strong>Sridhar, Mahesh and Sujatha</strong>, people who have worked (usefully) on this longer than I and Manjeet have.</p>
         <br />
         <p>And we also brought in a few people who really changed the organisation for good. <strong>Shrey & Prudhvi</strong> from tech, <strong>Sarthak</strong> in Product, <strong>Suhas </strong> who joined much later and turned around the team really well. </p>
         <br />
