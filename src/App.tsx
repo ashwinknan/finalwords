@@ -29,7 +29,7 @@ function App() {
             <li><strong>Content Team</strong>: 
               <ul>
                 <li><em>Devika and Stuti</em> for dealing with a challenging (and inexplicable) 'circumstances' in their team both above and below and still doing work relentlessly.</li>
-                <li><em>Reet and Nitin</em> for making Physics fun with Sridhar, Manish, Arnold and Ninad and for dealing with my hard demands.</li>
+                <li><em>Reet and Nitin</em> for making Physics fun with Sridhar, Manish, Rithanya, Nagesh, Arnold and Ninad and for dealing with my hard demands.</li>
                 <li><em>Vishnu and Abhishek</em> for being hyper-competitive and pushing everyone and for directly dealing with the epitome of unreasonableness.</li>
                 <li><em>Prachi</em> for doing the real work of managing the team and keeping everyone motivated.</li>
                 <li><em>Suhas</em> for turning around the team (and pushing me a lot with questions) & Kirti for setting everything up.</li>
