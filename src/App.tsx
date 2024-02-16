@@ -39,7 +39,7 @@ function App() {
             <li><strong>The Entire Storyboarding Team</strong>: They did amazingly well despite lots of misdirection initially.</li>
             <li><strong>Media Team</strong>: <em>Dipin, Kishor, Arpit, Nidhin (and the sound team), Rajashekar sir & JP Sir </em> (the only two people who deserved the salutation 'Sir') for dealing with all the leadership randomness in media</li>
             <li><strong>Tech & Product Team</strong>: Shrey and Prudhvi in particular for bringing (read: trying to bring) tech thinking into a legacy system.</li>
-            <li><strong>PMO</strong>: Divya, Rambabu, Kalyani, for prioritizing <em>actual work</em> over optics of work and pulling in extra effort for other inefficiencies and incompetencies in their team without complaining and more importantly <em>never fudging numbers</em>. With Manjeet - you never could have anyway.</li>
+            <li><strong>PMO</strong>: Divya, Rambabu, Kalyani, for prioritizing <em>actual work</em> over optics of work and pulling in extra effort for other inefficiencies and incompetencies in their team without complaining and more importantly <em>never fudging numbers</em>. With Manjeet - you never could have anyway. And Manvendra - for dealing all vendors. Phew! </li>
             <li><strong>Presenters</strong>: Aashay, Lekshmi, Tania, Sriram, Thanushree & Asmita for doing professional work despite the initial uncertainties and actually producing amazing work. I know it is not easy standing and delivering without complaining.</li>
           </ul>
 
