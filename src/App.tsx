@@ -15,7 +15,29 @@ function App() {
       </div>
       <SignedIn>
       <div className="centeredContent">
-        <p>This is work in progress. Come back after a few daya</p>
+        <p>Hi,</p>
+        <br />
+        <p>Today is my last working day at Narayana. The last two years have been nothing short of an amazing journey. When I met the founder on October 3, 2022 - I had one question - how serious are you about this?</p>
+        <br />
+        <p>And in typical founder style, he never responded, but showed up with intensity in the first six months and drove us to accomplish what normally takes years. We built a 250+ team in less than 4 months in the middle of COVID when people just wrote us off as also-rans. This is an experience I will forever remember. I also enjoyed working at the uppermost levels of the board with Puneet - and it gave me a first hand account of how things operate at the highest levels in a multi-thousand crore revenue company. This is an experience I would never regret. </p>
+        <br />
+        <p>I also want to take this moment to thank all those who were the first 70-80 odd people to join - you are the people who showed real courage and really gave comfort to everyone who joined later no matter how senior they were. <i>If it were not for you, many of the later joiners would not even have had the guts to join.</i> Anyone joining after that took a relatively safe choice - you didn’t.  You joined and paved the way for others - <i>if that isn’t leadership, I don’t know what is.</i> </p>
+        <br />
+        <p><strong>Devika, Abhishek, Reet, Nitin, Kirti, Parv, Prachi, Naruttam, Kalyani, Divya, Debashis, Stuti, Rahul, Shalini Marar, Rambabu </strong> - I know you joined because you really believed in us.</p>
+        <br />
+        <p>And we also brought in a few people who really changed the organisation for good. <strong>Shrey & Prudhvi</strong> from tech, <strong>Sarthak</strong> in Product, <strong>Suhas </strong> who joined much later and turned around the team really well. </p>
+        <br />
+        <p>And of course <strong>Manjeet</strong> - honestly the type of person who you would want as a co-founder.  </p>
+        <br />
+        <p>And of course this is not to negate others who joined, but I chose to specifically mention the above people because they chose to join here, <i>despite having other options in life</i>. And that is why I will be rooting for all the above people  wherever they are. Having worked with you all, I am confident that you all will have immense opportunities for success irrespective of where you work and would gradually endorse you anywhere. </p>
+        <br />
+        <p>As for me, having spent 12 years in education - I am moving on to a sector in an early stage company that I am personally super excited about - <strong>gaming</strong>. The past 3 months of speaking to Narayana kids has convinced me that <i>games are the way children learn best </i>. Gaming is a behemoth industry worth 20x the ed-tech industry and 5x the entertainment industry. I have always wanted to work at the cutting edge of tech - something that gaming offers really well. </p>
+        <br />
+        <p>Thank you everyone once again. I am at ashwinknan[at]gmail.com and (+91)-9757341650 - so if any of you want to chat up - you know how to reach me. I am still in Koramangala and will always be up for a quick coffee chat (for everyone, not just the people I have mentioned here). </p>
+        <br />
+        <p>Signing Off, </p>
+        <br />
+        <p>Ashwin</p>
         <SignOutButton />
       </div>
       </SignedIn>
