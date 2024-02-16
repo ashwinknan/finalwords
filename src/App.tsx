@@ -17,7 +17,7 @@ function App() {
       <div className="centeredContent" style={{textAlign: 'left', margin: '50px'}}>
         <p>Hi,</p>
         <br />
-        <p>Today is my last working day at Narayana. The last two years have been nothing short of an amazing journey. When I met the founder on October 3, 2022 - I had one question - how serious are you about this?</p>
+        <p>Today is my last working day at Narayana. The last two years have been nothing short of an amazing journey. When I met the founder on October 3, 2021 - I had one question - how serious are you about this?</p>
         <br />
         <p>And in typical founder style, he never responded, but showed up with intensity in the first six months and drove us to accomplish what normally takes years. We built a 250+ team in less than 4 months in the middle of COVID when people just wrote us off as also-rans. This is an experience I will forever remember. I also enjoyed working at the uppermost levels of the board with Puneet - and it gave me a first hand account of how things operate at the highest levels in a multi-thousand crore revenue company. This is an experience I would always be thankful to them for. I now know how difficult it is to balance expectations at the top, no matter how trivial it may seem to you and me. </p>
         <br />
@@ -30,7 +30,7 @@ function App() {
         <br />
         <p>And of course how can I forget <strong>Manjeet</strong> - he is honestly the type of person who you would want not as an employee but as a co-founder.  </p>
         <br />
-        <p>I chose to specifically mention the above people because I have worked with them directly. There are many like this who I may not have worked with directly. But more importantly, I know that they <strong>chose</strong> to join here, <i>despite having other options in life</i> and not merely becaause of a salary hike or a way out of their current company. And that is why I will be rooting for all the above people  wherever they are. Having worked with you all, I am confident that you all will have immense opportunities for success irrespective of where you work and would gradually endorse you anywhere. </p>
+        <p>I chose to specifically mention the above people because I have worked with them directly. There are many like this who I may not have worked with directly. But more importantly, I know that they <strong>chose</strong> to join here, <i>despite having other options in life</i> and not merely because of a salary hike or a way out of their current company. And that is why I will be rooting for all the above people  wherever they are. Having worked with you all, I am confident that you all will have immense opportunities for success irrespective of where you work and would gradually endorse you anywhere. </p>
         <br />
         <p>As for me, having spent 12 years in education - I am moving on to a sector in an early stage company that I am personally super excited about - <strong>gaming</strong>. The past 3 months of speaking to Narayana kids has convinced me that <i>games are the way children learn best </i>. Gaming is a behemoth industry worth 20x the ed-tech industry and 5x the entertainment industry. I have always wanted to work at the cutting edge of tech - something that gaming offers really well. </p>
         <br />
